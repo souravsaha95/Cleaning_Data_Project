@@ -1,6 +1,7 @@
 # Cleaning_Data_Project
 Contains the submission of final project of Cleaning Data course under the Data Science Specialization (Coursera)
-title: "README.md"
+
+Title: "README.md"
 m ini
 The project is based on data collected from the accelerometers  from the samsung galaxy smarphone. Full description of the dataset is available at:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
